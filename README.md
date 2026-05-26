@@ -1,16 +1,18 @@
-# React + Vite
+# MUG ART - Custom Mug Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Description
+MUG ART is a fully responsive ReactJS web application designed for art lovers and custom product enthusiasts. It allows users to browse unique handcrafted mug collections, view product details, and automatically calculate total order costs using a dynamic shopping cart system.
 
-Currently, two official plugins are available:
+## Features
+- **Dynamic 4-Page Navigation**: Seamlessly switch between Home, About, Collections, and Contact Us views.
+- **Interactive Shopping Cart**: Add items, update quantities, view real-time item totals, and calculate the global order cost.
+- **Responsive Layout**: Clean and modern UI built with React and Bootstrap, optimized for mobile and desktop screens.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Setup Instructions
+To run this project locally, follow these steps:
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository or download the source files.
+2. Open the project folder in your terminal.
+3. Install the required dependencies:
+   ```bash
+   npm install
